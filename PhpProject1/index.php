@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>Test From Client I add VUTHY
         <?php
         // put your code here
+        echo "Test From  VUTHY";
         ?>
     </body>
 </html>
