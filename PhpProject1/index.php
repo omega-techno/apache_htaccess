@@ -9,7 +9,7 @@ and open the template in the editor.
         <meta charset="UTF-8">
         <title></title>
     </head>
-    <body>Test From Clientsdfsdfsdf
+    <body>Test From Client I add VUTHY
         <?php
         // put your code here
         ?>
