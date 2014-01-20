@@ -1,0 +1,11 @@
+Options -Indexes 
+SetEnvIfNoCase Referer "^http://www.omega-techno.com/" locally_linked=1
+SetEnvIfNoCase Referer "^http://www.omega-techno.com$" locally_linked=1
+SetEnvIfNoCase Referer "^http://omega-techno.com/" locally_linked=1
+SetEnvIfNoCase Referer "^http://omega-techno.com$" locally_linked=1
+SetEnvIfNoCase Referer "^$" locally_linked=1
+<FilesMatch "\.(gif|png|jpe?g)$">
+  Order Allow,Deny
+  Allow from env=locally_linked
+</FilesMatch>
+HI Kean
