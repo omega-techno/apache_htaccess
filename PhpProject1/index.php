@@ -13,5 +13,9 @@ and open the template in the editor.
         <?php
         // put your code here
         ?>
+        
+        <h3>Omega Techno</h3>
+        
+        
     </body>
 </html>
