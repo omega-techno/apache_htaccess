@@ -16,5 +16,9 @@ and open the template in the editor.
         echo "Test From VUTHY";
         echo "VUTHY FOR TESTING";
         ?>
+        
+        <h3>Omega Techno</h3>
+        
+        
     </body>
 </html>
