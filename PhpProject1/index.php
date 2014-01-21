@@ -39,5 +39,7 @@ and open the template in the editor.
             <p>Sexy boy aloha</p>
         </div>
         a
+        b
+        c
     </body>
 </html>
