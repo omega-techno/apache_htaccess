@@ -7,7 +7,13 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title>This is For File That I add It Perfect Using GitHUb</title>
+        <title>Project Test</title>
+        <style>
+            div{
+               width:100px;
+               background-color: red;
+            }
+         </style>
     </head>
     <body>Test From Client I add VUTHY
         <?php
@@ -23,6 +29,6 @@ and open the template in the editor.
             <p>Testing git hub</p>
         </div>
         
-        
+        <i>Hello all guys </i>
     </body>
 </html>
