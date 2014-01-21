@@ -13,6 +13,8 @@ and open the template in the editor.
         <?php
         // put your code here
         echo "Test From  VUTHY";
+        echo "Test From VUTHY";
+        echo "VUTHY FOR TESTING";
         ?>
     </body>
 </html>
