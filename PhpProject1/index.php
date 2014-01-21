@@ -7,7 +7,7 @@ and open the template in the editor.
 <html>
     <head>
         <meta charset="UTF-8">
-        <title></title>
+        <title>This is For File That I add It Perfect Using GitHUb</title>
     </head>
     <body>Test From Client I add VUTHY
         <?php
