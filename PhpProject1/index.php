@@ -20,9 +20,13 @@ and open the template in the editor.
         <h3>Omega Techno</h3>
         
         <div id="test">
+            HI Mr Kean And OMEGA TEAM On GITHUB
             <p>Testing git hub</p>
         </div>
-        
+        <div id="test2">
+            
+            
+        </div>
         
     </body>
 </html>
